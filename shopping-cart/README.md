@@ -1,4 +1,5 @@
-Shopping Cart:
+# Shopping Cart
+
 - Create a shopping cart interface with items, quantities, prices, and a total.
 - Design the HTML structure to display items available for purchase, including their names, prices, and quantities.
 - Use JavaScript to implement the shopping cart logic.

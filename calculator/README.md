@@ -1,4 +1,5 @@
-Interactive Calculator:
+# Interactive Calculator
+
 - Design a calculator interface with buttons for numbers, arithmetic operators, and equals.
 - Use HTML to create the structure of the calculator with buttons for digits (0-9), operators (+, -, *, /), and other functionalities (like clear and equals).
 - Use JavaScript to handle button clicks and perform calculations based on user input.
