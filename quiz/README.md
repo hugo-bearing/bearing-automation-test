@@ -1,5 +1,7 @@
 # Quiz Game
 
+ Jessica
+
 - Create a quiz game with multiple-choice questions and answers.
 - Design an HTML structure for the quiz, including questions, answer choices, and a submit button.
 - Use JavaScript to store quiz questions and answers as objects or arrays.
